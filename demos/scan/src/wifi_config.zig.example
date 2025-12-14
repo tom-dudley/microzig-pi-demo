@@ -1,0 +1,5 @@
+// WiFi Configuration
+// Copy this file to wifi_config.zig and fill in your credentials
+
+pub const WIFI_SSID = "YourNetworkName";
+pub const WIFI_PASSWORD = "YourPassword";
